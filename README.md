@@ -20,3 +20,8 @@ l.56     {\usebibmacro{name:first-last}{#1}{#4
 
 It seems to be a recent change to `bibtex-mla`...checking.
 
+### Update
+
+There seems to be a [fork](https://github.com/jmclawson/mla13); I'll try
+it.
+
